@@ -2,14 +2,14 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Purpose 1
 
 Sample website with plenty of files for demos
 
-## More Purpose
+## Purpose 2
 
 This is 2nd purpose
 
-## More Purpose 2
+## Purpose 3
 
 This is 3rd purpose
